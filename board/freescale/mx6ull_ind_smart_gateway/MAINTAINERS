@@ -1,0 +1,8 @@
+MX6ULL_IND_SMART_GATEWAY BOARD
+M:	Peng Fan <peng.fan@nxp.com>
+S:	Maintained
+F:	board/freescale/mx6ull_ind_smart_gateway/
+F:	include/configs/mx6ull_ind_smart_gateway.h
+F:	configs/mx6ull_ind_smart_gateway_defconfig
+F:	configs/mx6ull_ind_smart_gateway_plugin_defconfig
+F:	configs/mx6ulz_ind_smart_gateway_defconfig

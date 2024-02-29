@@ -1,0 +1,17 @@
+if TARGET_MX6ULL_IND_SMART_GATEWAY
+
+config SYS_BOARD
+	default "mx6ull_ind_smart_gateway"
+
+config SYS_VENDOR
+	default "freescale"
+
+config SYS_CONFIG_NAME
+	default "mx6ull_ind_smart_gateway"
+
+config IMX_CONFIG
+	default "board/freescale/mx6ull_ind_smart_gateway/imximage.cfg"
+
+config TEXT_BASE
+	default 0x87800000
+endif
